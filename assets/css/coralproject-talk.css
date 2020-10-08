@@ -2,8 +2,15 @@
 	.coral-comment-username {
 		color: #ffffff !important;
 	}
+    .coral-userPopover {
+		color: #ffffff !important;
+    }
+    .coral-commentForm {
+        background-color: #1A1C20 !important;
+    }
 	:root{
 		--palette-background-body: #1A1C20;
+        --palette-background-popover: #263238;
 		--palette-background-input: #263238;
 		--palette-primary-100: #04202f;
 		--palette-primary-500: #26a6ed;
