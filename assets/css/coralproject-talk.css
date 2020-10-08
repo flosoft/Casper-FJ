@@ -5,9 +5,6 @@
     .coral-userPopover {
 		color: #ffffff !important;
     }
-    .coral-commentForm {
-        background-color: #1A1C20 !important;
-    }
 	:root{
 		--palette-background-body: #1A1C20;
         --palette-background-popover: #263238;
